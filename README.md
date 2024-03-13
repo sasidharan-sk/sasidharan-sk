@@ -1,12 +1,11 @@
-<img align="center" alt="Coding"  width="1920" src="https://64.media.tumblr.com/fe6d6866c5f3902586116f472a2ab20f/921683666be3fa68-8a/s540x810/90260b81c89a1cc7d3f0bdabf9096d7530e3f83d.gifv">
+<img align="center" alt="Coding"  width="1080" src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif">
 
 <h1 align="center">Hi 👋, I'm Sasidharan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasidharan-sk&label=Profile%20views&color=0e75b6&style=flat" alt="sasidharan-sk" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasidharan-sk" alt="sasidharan-sk" /></a> </p>
 
 - 🔭 I’m currently working on [https://github.com/sasidharan-sk/netflix-gpt](https://github.com/sasidharan-sk/netflix-gpt)
 
