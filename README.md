@@ -1,6 +1,6 @@
 <img align="center" alt="Coding"  width="1080" src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif">
 
-<h1 align="center">Hi 👋, I'm Sasidharan</h1>
+<h1 align="center">Hi 👋
 <h3 align="center">A passionate Fullstack Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasidharan-sk&label=Profile%20views&color=0e75b6&style=flat" alt="sasidharan-sk" /> </p>
