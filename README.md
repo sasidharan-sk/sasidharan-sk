@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasidharan-sk" alt="sasidharan-sk" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/sasidharan-sk/netflix-gpt](https://github.com/sasidharan-sk/netflix-gpt)
+- 🔭 I’m currently working on [https://netflix-gemini-clone.vercel.app](https://netflix-gemini-clone.vercel.app/)
 
 
 - 🌱 I’m currently learning **React js, React Native**
