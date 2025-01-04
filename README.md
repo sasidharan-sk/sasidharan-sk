@@ -14,13 +14,13 @@
 
 - 💬 Ask me about **React, Redux, Asp.net**
 
-- 📫 How to reach me **hcsenti2001@gmail.com**
+- 📫 How to reach me **sasidharan.k2002@gmail.com**
   
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/senthil-nathan-k-a100121a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasidharan-fullstack-developer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sasidharan-fullstack-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasidharan-fullstack-developer" height="30" width="40" /></a>
 <a href="https://www.instagram.com/inathan_?igsh=ajU2cmlsZ2E0MTA4"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sasidharan.sk" height="30" width="40" /></a>
 </p>
 
