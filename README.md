@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Redux, Asp.net**
 
-- 📫 How to reach me **ksenthilnathan2001@gmail.com2001@gmail.com**
+- 📫 How to reach me **ksenthilnathan2001@gmail.com**
   
 - ⚡ Fun fact **I think I am funny**
 
